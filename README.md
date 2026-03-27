@@ -61,4 +61,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ### Contact :
 <a href="https://t.me/SUKOON_S"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
-<a href="https://instagram.com/careless__02"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/shivashish.kr"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
