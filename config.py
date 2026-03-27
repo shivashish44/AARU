@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","SUKOON_S")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","SonaliMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME","AARU_BEATSBOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003812209413))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7403621976))
+OWNER_ID = int(getenv("OWNER_ID", 8418584090))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -64,8 +64,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iamvillain77")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/oldskoolgc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/betabot_hub")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/betabot_support")
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
 
@@ -131,21 +131,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/4lt1uc.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/umpv9j.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/4lt1uc.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/lnvimv.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/4lt1uc.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/4lt1uc.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/4lt1uc.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ho0744.png"
+STATS_IMG_URL = "https://files.catbox.moe/ho0744.png
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ho0744.png"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ay13ih.png"
+STREAM_IMG_URL = "https://files.catbox.moe/ay13ih.png"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ay13ih.png"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/ay13ih.png"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/umpv9j.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/umpv9j.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/umpv9j.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
