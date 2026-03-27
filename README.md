@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+BETA+BOT+HUB+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>Beta𝐁ᴏᴛHub</b></h1>
-<p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
+<p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://files.catbox.moe/nrt3hr.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
